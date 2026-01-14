@@ -11,3 +11,5 @@ Node.js + Express backend with JWT auth (access + refresh tokens), HttpOnly cook
    npm install
    npm run dev (development)
    npm start (production)
+
+This website is a coaching website made for real world users and for encouraging the modern technology
